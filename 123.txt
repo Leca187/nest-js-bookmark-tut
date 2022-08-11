@@ -1,0 +1,2 @@
+yarn start:dev - pokretanje servera
+npx prisma studio - pokretanje przime
